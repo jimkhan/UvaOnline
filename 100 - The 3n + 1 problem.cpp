@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int i,j,mx,m,n;
+    int i,j,mx,m,n,c;
 
     while(cin>>n>>m)
     {
